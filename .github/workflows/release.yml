@@ -30,7 +30,7 @@ jobs:
         uses: TheDoctor0/zip-release@0.4.1
         with:
           filename: "grim-fandango-remastered-greek-lang.zip"
-          directory: "./translations/greek/files"
+          path: "./translations/greek/files"
 
       - name: Upload Release
         uses: ncipollo/release-action@v1
