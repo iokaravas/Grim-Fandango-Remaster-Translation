@@ -14,7 +14,7 @@ The game translation is complete, except for:
 - some UI text strings specific to the Remastered version
 
 ### How to install Greek language for Grim Fandango: Remastered
-Copy all the files from [the folder named `files`](files), in your game installation directory, replacing all files.
+Extract all the files from the latest [release for the Greek translation zip file](https://github.com/iokaravas/Grim-Fandango-Remaster-Translation/releases/latest/download/grim-fandango-remastered-greek-lang.zip), in your game installation directory, replacing all files.
 
 **Note: Installing any language will overwrite the English language. This has been tested only on the GoG release.**
 
