@@ -30,3 +30,9 @@ jobs:
         with:
           filename: "grim-fandango-remastered-greek-lang.zip"
           directory: "./translations/greek/files"
+
+      - name: Upload Release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "grim-fandango-remastered-greek-lang.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
