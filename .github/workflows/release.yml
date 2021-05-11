@@ -29,7 +29,7 @@ jobs:
       - name: Zip Greek Translation
         uses: montudor/action-zip@v1.0.0
         with:
-          args: zip -qq -r grim-fandango-remastered-greek-lang.zip dir translations/greek/files
+          args: zip -qq -r -j grim-fandango-remastered-greek-lang.zip dir translations/greek/files
 
       - name: Upload Release
         uses: ncipollo/release-action@v1
