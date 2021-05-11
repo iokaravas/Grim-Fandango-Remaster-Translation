@@ -25,12 +25,13 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-          
+      
+      - name: Install zip
+        uses: montudor/action-zip@v1
+  
       - name: Zip Greek Translation
-        uses: montudor/action-zip@v1.0.0
-        with:
-          args: zip -qq -r -j grim-fandango-remastered-greek-lang.zip translations/greek/files/*
-
+        run: cd translations/greek/files && zip -r ../../../grim-fandango-remastered-greek-lang.zip ./* && cd -
+        
       - name: Upload Release
         uses: ncipollo/release-action@v1
         with:
