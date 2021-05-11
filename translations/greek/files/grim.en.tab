@@ -1,13 +1,13 @@
 #MenusAndUI
 
-sytx901	&New Game
+sytx901	&Νέο παιχνίδι
 sytx902	S&pecial Features
 sytx903	M&ouse Speed
-sytx904	&Graphics and Resolution Options...
-sytx905	Graphics Options
-sytx906	R&esolution
-sytx907	&Return to Options Menu
-sytx908	&Windowed
+sytx904	&Γραφικά και ρυθμίσεις ανάλυσης...
+sytx905	Επιλογές γραφικών
+sytx906	Ανάλυση
+sytx907	&Επιστροφή στις επιλογές
+sytx908	&Σε παράθυρο
 sytx909	R&ender Mode:
 sytx910	&Director's Commentary
 sytx911	Director's Commentary &Volume
@@ -15,13 +15,13 @@ sytx912	Remastered
 sytx913	Original
 sytx914	&Concept Art Gallery
 sytx915	Special Features
-sytx916	&Language
-sytx917	English
-sytx918	Deutsch
-sytx919	Espaρol
-sytx920	Franηais
-sytx921	Italiano
-sytx922	Portuguκs do Brasil
+sytx916	&Γλώσσα
+sytx917	Ελληνικά
+sytx918	Γερμανικά
+sytx919	Ισπανικά
+sytx920	Γαλλικά
+sytx921	Ιταλικά
+sytx922	Προτογαλικά
 sytx923	Pick up item / Put away item / Skip Cutscene
 sytx924	Use item / Talk / Skip Dialog
 sytx925	Director's Commentary
@@ -30,9 +30,9 @@ sytx927	Move left/right to navigate help
 styx928	Aspect:
 styx929	Square (4:3)
 styx930	Wide (16:9)
-sytx931	Select
-sytx932	Return to Game
-sytx933	Return to Main Menu
+sytx931	Επιλογή
+sytx932	Επιστροφή στο παιχνίδι
+sytx933	Επιστροφή στο μενού
 sytx934	CONTROLS
 sytx935	OPTIONS
 sytx936	SPECIAL FEATURES
@@ -82,7 +82,7 @@ sytx979	The local save data is too large to be uploaded as Cross-Save data. Cros
 sytx980	Cross-Save data upload failed. Save the game again with an active Internet connection to upload Cross-Save data.
 sytx981	Cross-Save data download failed. Do you want to try to download the Cross-Save data again?
 sytx982	Warning
-sytx983	This game does not automatically save. Please save in the pause menu to avoid losing progress.
+sytx983	Αυτό το παιχνίδι δεν αποθηκεύει αυτόματα. Παρακαλώ κάνετε αποθήκευση απο το μενού επιλογών για να μη χάσετε την πρόοδο σας.
 drcm000	Featuring:
 drcm001	Project Leader
 drcm002	Lead Artist
