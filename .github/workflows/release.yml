@@ -38,4 +38,4 @@ jobs:
           tag: "1.0"
           artifacts: "grim-fandango-remastered-greek-lang.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
-          APPEND_TO_RELEASE: true
+          allowUpdates: true
